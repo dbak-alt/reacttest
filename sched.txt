@@ -1,0 +1,31 @@
+maths -
+trig fun
+lin in eq-mt
+perm comb-mt
+deriv-mt
+3d geo
+physics-
+mech prop of solid
+mech prop of fluids
+therml props of matters-mt
+thermodynamics --least
+oscillations-mt
+chemistry-
+structure of atom 
+states of matter
+thermodynamics
+equilbrium -mt
+s block elements -mt
+p block elements
+hydrocarbon
+
+question pattern
+phy che  
+sec-a  3 2 marks 
+sec-b  8 3 marks
+sec-c  1 5 marks
+
+
+
+
+
